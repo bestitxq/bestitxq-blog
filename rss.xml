@@ -2,24 +2,24 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>燃烧的光头强的个人博客</title>
-    <link>https://https://bestitxq.github.io/bestitxq-blog</link>
-    <atom:link href="https://https://bestitxq.github.io/bestitxq-blog/rss.xml" rel="self" type="application/rss+xml"/>
+    <link>https://bestitxq.github.io/bestitxq-blog</link>
+    <atom:link href="https://bestitxq.github.io/bestitxq-blog/rss.xml" rel="self" type="application/rss+xml"/>
     <description>记录精彩的程序人生</description>
     <generator>Solo, v3.7.0, https://solo.b3log.org</generator>
-    <lastBuildDate>Thu, 16 Jan 2020 15:55:06 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2020 16:53:28 +0800</lastBuildDate>
     <language>zh-cn</language>
     <item>
       <title>123</title>
-      <link>https://https://bestitxq.github.io/bestitxq-blog/qwe</link>
+      <link>https://bestitxq.github.io/bestitxq-blog/qwe</link>
       <description><![CDATA[<p>qwe123</p>]]></description>
       <author>燃烧的光头强</author>
-      <guid>https://https://bestitxq.github.io/bestitxq-blog/qwe</guid>
+      <guid>https://bestitxq.github.io/bestitxq-blog/qwe</guid>
       <category>123</category>
       <pubDate>Wed, 15 Jan 2020 15:26:44 +0800</pubDate>
     </item>
     <item>
       <title>世界，你好！</title>
-      <link>https://https://bestitxq.github.io/bestitxq-blog/hello-solo</link>
+      <link>https://bestitxq.github.io/bestitxq-blog/hello-solo</link>
       <description><![CDATA[<p><img src="https://img.hacpai.com/bing/20181024.jpg?imageView2/1/w/1280/h/720/interlace/1/q/100" alt=""></p>
 <p>Solo 博客系统已经初始化完毕，可在管理后台 - 工具 - 偏好设定中调整更多细节设置。如果需要导入已有博客文章，请参考文档 <a href="https://hacpai.com/article/1498490209748" target="_blank">Hexo/Jekyll/Markdown 文件导入</a>。</p>
 <p>对了，出于安全考虑请尽快完成如下操作：</p>
@@ -30,7 +30,7 @@
 </ol>
 <p>最后，如果你觉得 Solo 很赞，请到<a href="https://github.com/88250/solo" target="_blank">项目主页</a>给颗星鼓励一下 ❤️</p>]]></description>
       <author>燃烧的光头强</author>
-      <guid>https://https://bestitxq.github.io/bestitxq-blog/hello-solo</guid>
+      <guid>https://bestitxq.github.io/bestitxq-blog/hello-solo</guid>
       <category>Solo</category>
       <pubDate>Mon, 13 Jan 2020 14:00:57 +0800</pubDate>
     </item>
