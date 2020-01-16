@@ -1,0 +1,109 @@
+/**
+ * Solo - A small and beautiful blogging system written in Java.
+ * Copyright (c) 2010-present, b3log.org
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Affero General Public License for more details.
+ *
+ * You should have received a copy of the GNU Affero General Public License
+ * along with this program.  If not, see <https://www.gnu.org/licenses/>.
+ */
+.navbar {
+    color: white;
+    background: rebeccapurple;
+    box-shadow: 0 2px 6px 0 rgba(0, 0, 0, .3);
+}
+
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ * Position
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+.positions {
+    width: 350px;
+    height: 180px;
+    background: #B4EFE0;
+    position: relative;
+    left: 50%;
+    margin: 50px 0 50px -175px;
+    border: 12px solid #90DECA;
+}
+
+.position {
+    width: 80px;
+    height: 20px;
+    background: #A3E7D6;
+    border-radius: 3px;
+    position: absolute;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.position.selected {
+    background: white;
+    box-shadow: 0 2px 6px 0 #66C8B0;
+}
+
+.position:hover {
+    box-shadow: 0 2px 6px 0 #66C8B0;
+}
+
+.position.left {
+    left: 0;
+}
+
+.position.right {
+    right: 0;
+}
+
+.position.top {
+    top: 0;
+}
+
+.position.bottom {
+    bottom: 0;
+}
+
+.settings fieldset .btn {
+    width: 100%;
+    margin: 5px 0;
+    color: #639;
+    background-color: #FFFFFF;
+    border-color: #663399;
+}
+
+.panel-title {
+    background: white;
+    padding: 20px 0;
+}
+
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ * In
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ * Alert
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ * Out
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ * Footer
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+footer {
+    width: 100%;
+}

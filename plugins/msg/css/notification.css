@@ -1,0 +1,56 @@
+/**
+ * Solo - A small and beautiful blogging system written in Java.
+ * Copyright (c) 2010-present, b3log.org
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Affero General Public License for more details.
+ *
+ * You should have received a copy of the GNU Affero General Public License
+ * along with this program.  If not, see <https://www.gnu.org/licenses/>.
+ */
+.notification {
+    width: 360px;
+    height: 125px;
+    z-index: 9000;
+    position: fixed;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    padding: 20px;
+    margin: 0.5rem 0 1rem 0;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.notification .dismiss {
+    top: 9px;
+    right: 10px;
+    width: 20px;
+    height: 20px;
+    color: #000;
+    text-align: center;
+    line-height: 20px;
+    overflow: hidden;
+    position: absolute;
+    background-color: #B8B8B8;
+    border-radius: 50%;
+}
+
+.notification .illustration {
+    margin-right: 20px;
+    float: left;
+}
+
+.notification .illustration img {
+    border-radius: 50%;
+}
+
+.notification .text .title {
+    font-size: 18px;
+    font-weight: bold;
+}
